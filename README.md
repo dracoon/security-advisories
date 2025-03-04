@@ -5,4 +5,4 @@ We use this repository to publish security advisories (starting from January 202
 
 # Archive
 
-We will shortly add a link to our older notification in the archive.
+Please find our archive of identified vulnerabilities in the [DRACOON Cloud support documentation](https://cloud.support.dracoon.com/hc/en-us/articles/360017267620-DRACOON-Security-Updates#3).
